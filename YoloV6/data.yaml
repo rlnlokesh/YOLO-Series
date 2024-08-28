@@ -1,0 +1,6 @@
+train: C:/Users/HP/Desktop/Y Python/YOLO/yolo_v6/dataset/images/train
+val: C:/Users/HP/Desktop/Y Python/YOLO/yolo_v6/dataset/images/val
+
+
+nc: 2
+names: ['Dolphin','Tortoise']
